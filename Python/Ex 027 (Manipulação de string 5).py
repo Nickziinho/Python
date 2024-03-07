@@ -1,5 +1,0 @@
-nome = str(input('Digite seu nome completo: ')).strip()
-dividir = nome.split()
-print(f'Prazer em te conhecer, {dividir[0]}!')
-print(f'Seu primeiro nome é {dividir[0]}')
-print(f'Seu ultimo nome é {dividir[len(dividir)-1]}')
