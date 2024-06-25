@@ -1,0 +1,1 @@
+LINK DAS ANOTAÇÕES VIA NOTION: https://open-erica-35e.notion.site/PYTHON-072dba9354614a68a736a7c34a2b3480
