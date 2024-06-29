@@ -12,4 +12,6 @@ def voto(ano):
 
 nasc = (int(input('\033[1;34mDigite o ano do seu nascimento:\033[m ')))
 print('\033[1;34m=\033[m'*30)
-print(voto(nasc))
+print(voto(nasc)) #<<<< o nasc é o valor dado ao ANO lá em cima
+""""Aqui é o seguinte, no def ta falando que necessita de um atributo que ta definido
+como ano. E embaixo está dizendo que o atributo ta sendo usado como o (nasc)."""
