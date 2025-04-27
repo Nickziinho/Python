@@ -16,7 +16,6 @@ def maior(*num):
     print(f'O maior valor informado foi {maior}.')
     print('~~'*15)
 
-
 print('~~'*15)
 maior(1, 5, 4, 3, 8, 9, 7)
 maior(8, 10, 20, 45, 5, 8, 9, 30, 15)
